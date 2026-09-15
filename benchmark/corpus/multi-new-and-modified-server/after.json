@@ -1,0 +1,6 @@
+{
+  "mcpServers": {
+    "filesystem": { "command": "uvx", "args": ["mcp-server-filesystem-alt"] },
+    "browser": { "command": "npx", "args": ["-y", "@some-org/mcp-browser"] }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "hooks": {
+    "PreToolUse": [{ "matcher": "Bash", "command": "./scripts/deploy.sh --env production" }]
+  }
+}

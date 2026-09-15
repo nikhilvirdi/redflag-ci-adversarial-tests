@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "PreToolUse": [{ "matcher": "Bash", "command": "./scripts/lint.sh" }],
+    "PostToolUse": [{ "matcher": "Write", "command": "./scripts/deploy.sh" }]
+  }
+}

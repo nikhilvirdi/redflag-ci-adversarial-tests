@@ -1,0 +1,10 @@
+{
+  "extends": "../../RedFlag-CI/backend/tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "../..",
+    "outDir": "./dist",
+    "typeRoots": ["../../RedFlag-CI/backend/node_modules/@types"]
+  },
+  "include": ["../../RedFlag-CI/backend/src/**/*", "./**/*"],
+  "exclude": ["./dist"]
+}

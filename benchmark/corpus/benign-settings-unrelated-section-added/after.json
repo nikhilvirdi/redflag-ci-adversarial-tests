@@ -1,0 +1,4 @@
+{
+  "permissions": { "allow": ["Read(README.md)"], "deny": [] },
+  "editor": { "theme": "dark", "fontSize": 14 }
+}

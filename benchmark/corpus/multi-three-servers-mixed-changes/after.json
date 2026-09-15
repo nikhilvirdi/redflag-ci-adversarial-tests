@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "filesystem": { "command": "npx", "args": ["-y", "@modelcontextprotocol/server-filesystem"] },
+    "git": { "command": "uvx", "args": ["mcp-server-git-alt"] },
+    "browser": { "command": "npx", "args": ["-y", "@some-org/mcp-browser"] }
+  }
+}

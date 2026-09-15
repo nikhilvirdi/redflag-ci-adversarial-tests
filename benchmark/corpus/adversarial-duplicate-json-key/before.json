@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "legit": {
+      "command": "node",
+      "args": [
+        "legit.js"
+      ]
+    }
+  }
+}

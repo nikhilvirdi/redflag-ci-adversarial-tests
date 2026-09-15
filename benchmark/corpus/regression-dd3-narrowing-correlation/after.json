@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Curl(http://api.github.com)"
+    ]
+  }
+}

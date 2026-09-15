@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "slack": {
+      "command": "npx",
+      "args": [
+        "@modelcontextprotocol/server-slack"
+      ]
+    }
+  }
+}

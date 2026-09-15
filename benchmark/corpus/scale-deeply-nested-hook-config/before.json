@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      { "matcher": "Bash", "command": "./scripts/lint.sh", "description": "Lint before bash", "timeout": 5000, "enabled": true },
+      { "matcher": "Edit", "command": "./scripts/format.sh", "description": "Format before edit", "timeout": 3000, "enabled": true }
+    ],
+    "PostToolUse": [
+      { "matcher": "*", "command": "./scripts/notify.sh", "description": "Notify after any tool", "timeout": 1000, "enabled": true }
+    ],
+    "SessionStart": [
+      { "command": "./scripts/init.sh", "description": "Initialize session", "timeout": 2000, "enabled": true }
+    ]
+  }
+}

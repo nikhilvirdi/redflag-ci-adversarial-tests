@@ -1,0 +1,88 @@
+{
+  "mcpServers": {
+    "server-00": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-tool-00"
+      ]
+    },
+    "server-01": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-tool-01"
+      ]
+    },
+    "server-02": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-tool-02"
+      ]
+    },
+    "server-03": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-tool-03"
+      ]
+    },
+    "server-04": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-tool-04"
+      ]
+    },
+    "server-05": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-tool-05"
+      ]
+    },
+    "server-06": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-tool-06"
+      ]
+    },
+    "server-07": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-tool-07"
+      ]
+    },
+    "server-08": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-tool-08"
+      ]
+    },
+    "server-09": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-tool-09"
+      ]
+    },
+    "server-10": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-tool-10"
+      ]
+    },
+    "server-11": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-tool-11"
+      ]
+    }
+  }
+}

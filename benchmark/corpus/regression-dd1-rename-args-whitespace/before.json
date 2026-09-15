@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "old-name": {
+      "command": "cat",
+      "args": [
+        "file.txt"
+      ]
+    }
+  }
+}

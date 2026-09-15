@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "notify": { "command": "notify-server" }
+  }
+}

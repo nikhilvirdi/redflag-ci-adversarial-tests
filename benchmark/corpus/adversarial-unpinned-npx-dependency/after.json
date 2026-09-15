@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "formatter": {
+      "command": "npx",
+      "args": [
+        "prettier",
+        "--write",
+        "."
+      ]
+    }
+  }
+}

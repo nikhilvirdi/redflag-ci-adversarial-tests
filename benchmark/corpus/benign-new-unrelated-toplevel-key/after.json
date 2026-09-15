@@ -1,0 +1,6 @@
+{
+  "mcpServers": {
+    "filesystem": { "command": "npx", "args": ["-y", "@modelcontextprotocol/server-filesystem@1.0.0"] }
+  },
+  "metadata": { "lastReviewed": "2026-01-15" }
+}

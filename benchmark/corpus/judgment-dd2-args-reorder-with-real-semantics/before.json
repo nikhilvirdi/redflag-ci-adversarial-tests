@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "deploy": { "command": "deploy-tool", "args": ["--config", "/etc/app.conf", "--verbose"] }
+  }
+}

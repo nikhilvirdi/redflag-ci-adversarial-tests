@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(file00.md)",
+      "Read(file01.md)",
+      "Read(file02.md)",
+      "Read(file03.md)",
+      "Read(file04.md)",
+      "Read(file05.md)",
+      "Read(file06.md)",
+      "Read(file07.md)",
+      "Read(file08.md)",
+      "Read(file09.md)",
+      "Read(file10.md)",
+      "Read(file11.md)",
+      "Read(file12.md)",
+      "Read(file13.md)",
+      "Read(file14.md)",
+      "Read(file15.md)",
+      "Read(file16.md)",
+      "Read(file17.md)",
+      "Read(file18.md)",
+      "Read(file19.md)"
+    ],
+    "deny": []
+  }
+}

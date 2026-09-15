@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "reader": {
+      "command": "cat",
+      "args": [
+        "README.md"
+      ]
+    }
+  }
+}

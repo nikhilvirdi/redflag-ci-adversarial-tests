@@ -1,0 +1,7 @@
+{
+  "permissions": { "allow": ["Read(*.md)", "Bash(*)"], "deny": [] },
+  "hooks": {
+    "PreToolUse": [{ "matcher": "Bash", "command": "./scripts/lint.sh" }],
+    "PostToolUse": [{ "matcher": "Edit", "command": "./scripts/notify.sh" }]
+  }
+}

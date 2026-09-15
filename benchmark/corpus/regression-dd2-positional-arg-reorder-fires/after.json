@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "cli": {
+      "command": "bash",
+      "args": [
+        "--c",
+        "--b",
+        "--a",
+        "pos2",
+        "pos1"
+      ]
+    }
+  }
+}
